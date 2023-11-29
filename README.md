@@ -2,9 +2,9 @@
 1- Install Node.js and npm:
  Ensure that Node.js and npm (Node Package Manager) are installed on your machine. You can download them from https://nodejs.org/.
 
-You can clone or download file to your device in zip format
+2-You can clone or download file to your device in zip format
 
-2-Clone the Repository:
+Clone the Repository:
 Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Use the following command to clone the repository: git clone <repository-url>
 or 
 Download and extract file
