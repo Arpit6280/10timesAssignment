@@ -5,12 +5,12 @@
 2-You can clone or download file to your device in zip format
 
 Clone the Repository:
-Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Use the following command to clone the repository: git clone <repository-url>
+Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Use the following command to clone the repository: git clone repository-url
 or 
 Download and extract file
 
 3-Navigate to the Project Directory:
-Change your working directory to the newly cloned project folder: cd <project-folder> (cd myapp)
+Change your working directory to the newly cloned project folder: cd project-folder (cd myapp)
 
 4-Install Dependencies:
 Use npm to install the project dependencies. Run the following command: npm install
