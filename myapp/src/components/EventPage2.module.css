@@ -1,0 +1,82 @@
+.event2_container {
+  padding: 0.8rem;
+}
+
+h1{
+  font-family:fantasy;
+  position: relative;
+  left: 12%;
+  top: 22%;
+  font-size: 80px;
+}
+
+.theme_container {
+  height: 57%;
+  border-radius: 10px;
+}
+
+.theme_lists {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+.theme_lists section {
+  width: 80px;
+  height: 60px;
+  text-align: center;
+  cursor: pointer;
+}
+.theme-1 {
+  background-color: skyblue;
+  border: 8px solid rgb(45, 181, 235);
+  border-radius: 10px;
+  box-sizing: content-box;
+}
+.theme-2 {
+  background-color: lightgreen;
+  border: 8px solid rgb(87, 239, 87);
+  border-radius: 10px;
+}
+.theme-3 {
+  background-color: orange;
+  border:8px solid rgb(200, 131, 4);
+  border-radius: 10px;
+}
+.theme-4 {
+  background-color: yellow;
+  border: 8px solid rgb(210, 210, 3);
+  border-radius: 10px;
+}
+
+.color_family{
+    margin-top: 1rem;
+    background-color: rgb(241 237 237);
+    border-radius: 10px;
+    padding:8px 10px;
+}
+
+.color_lists {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.colors_div{
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+
+.red{
+  background-color: red;
+}
+.orange{
+  background-color: orange;
+}
+.gray{
+  background-color: gray;
+}
+.blue{
+  background-color: blue;
+}

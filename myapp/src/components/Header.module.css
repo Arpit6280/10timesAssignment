@@ -1,0 +1,28 @@
+.main_container {
+  width: 80%;
+  background-color: gray;
+  margin: 0.01rem auto;
+  height: 50px;
+  padding-top: 15px;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 2rem;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  width: 50%;
+}
+
+a {
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: x-large;
+}

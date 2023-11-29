@@ -1,0 +1,52 @@
+.event_container {
+  padding: 1.5rem;
+  width: 80%;
+  margin: 5rem auto;
+  background-color: #fff;
+}
+
+.events_details_top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.upcoming_past button {
+  color: #8b8d8d;
+  border-radius: 1px;
+  background-color: #cfd6d4;
+  border: 1px solid rgb(116, 120, 116);
+  padding: 0.5rem;
+  cursor: pointer;
+  float: left;
+}
+
+.upcoming_past button.event_filter {
+  background-color: white;
+  color: black;
+  font-weight: bolder;
+}
+
+.event_lists {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.event_left {
+  margin-top: 1rem;
+  width: 12%;
+}
+
+.colors {
+  color: rgb(2, 2, 2);
+  font-weight: 500;
+}
+
+.eventName {
+  font-size: x-large;
+  font-weight: 600;
+}
+
+.event_right {
+  width: 88%;
+}
